@@ -18,9 +18,9 @@ Windows Requirements:
 - Windows Subsystem for Linux (WSL) 2 (!)Required
 - Intel Fortran Compiler suite
 
-Linux Requirements:
+Linux/macOS Requirements:
 
-- Use pyinstaller to compile a Linux executable or contact Navin Solomon.
+- Use pyinstaller to compile a Linux/macOS executable or contact me.
 - gfortran
 
 ===========================================================================
