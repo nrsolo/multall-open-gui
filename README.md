@@ -33,4 +33,4 @@ Use stagen-18.1.exe and plotall-17.1.exe to create plots. Built in plotting in t
 
 GUI and automation by Navin Solomon, 2021
 
-Multall-open suite and plotters provided by Dr. John Denton https://sites.google.com/site/multallopen/
+Multall-open suite and plotters provided by Dr. John Denton https://sites.google.com/view/multall-turbomachinery-design
